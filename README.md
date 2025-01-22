@@ -13,4 +13,5 @@ After that, you can run the following code script in a cmd for windows either in
 python -m streamlit run chat.py
 
 The displaying result would be as the following screen shot:
+![image](https://github.com/user-attachments/assets/b778fd3b-a473-4fe2-b06e-861e980fc582)
 
