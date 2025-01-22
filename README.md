@@ -24,7 +24,7 @@ Before running the chatbot, ensure the following:
 
 1. Clone this repository to your local system:
    ```bash
-   git clone https://github.com/your-username/Chatbot-for-Free.git
+   git clone https://github.com/ashkantashk/Chatbot-for-Free.git
    cd Chatbot-for-Free
    ```
 
@@ -44,15 +44,15 @@ Before running the chatbot, ensure the following:
    python -m streamlit run chat.py
    ```
 
-3. Open the provided local URL in your browser to interact with the chatbot.
+3. A local URL in your browser will be opened automatically to interact with the chatbot.
 
 ---
 
 ## Output
 
 The chatbot interface will look similar to the screenshot below:
+![image](https://github.com/user-attachments/assets/b2e784a4-0bbf-4557-86e1-fb2bc6d3e376)
 
-![Chatbot Interface](https://github.com/user-attachments/assets/b778fd3b-a473-4fe2-b06e-861e980fc582)
 
 ---
 
@@ -82,5 +82,5 @@ Special thanks to the open-source community for inspiring this project.
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or reach out at [your-email@example.com].
+For any questions or suggestions, feel free to open an issue or reach out at [ashkan.tashk@gmail.com].
 
