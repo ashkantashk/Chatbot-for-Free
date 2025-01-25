@@ -1,5 +1,9 @@
-pip install -U g4f
+#!pip install -U g4f
 
-pip install PyExecJS
+#!pip install PyExecJS
 
-pip install streamlit
+#!pip install streamlit
+
+g4f
+PyExecJS
+streamlit
